@@ -1,0 +1,22 @@
+{
+    "block_size_limit_mb": 1,
+    "number_transactions_per_block": {
+      "name": "norm",
+      "parameters": " "
+    },
+    "tx_validation": {
+        "name": "log",
+        "parameters": " "
+    },
+    "block_validation": {
+        "name": "exp",
+        "parameters": " "
+    },
+    "time_between_blocks_seconds": {
+        "name": "norm",
+       "parameters": " "
+    },
+    "miners":{
+        "ip": " "
+    }
+}
